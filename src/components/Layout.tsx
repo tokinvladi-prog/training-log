@@ -6,14 +6,22 @@ export default function Layout() {
       <main className="flex-1">
         <Outlet />
       </main>
-      <nav className="flex h-16 border-t">
-        <NavLink to="/" end>
+      <nav className="sticky bottom-0 z-50 flex h-16 items-center border-t border-t-stone-200 bg-white text-center text-xs ">
+        <NavLink to="/" className="flex-1" end>
           Сегодня
         </NavLink>
-        <NavLink to="/week">Неделя</NavLink>
-        <NavLink to="/history">История</NavLink>
-        <NavLink to="/progress">Прогресс</NavLink>
-        <NavLink to="/more">Ещё</NavLink>
+        <NavLink to="/week" className="flex-1">
+          Неделя
+        </NavLink>
+        <NavLink to="/history" className="flex-1">
+          История
+        </NavLink>
+        <NavLink to="/progress" className="flex-1">
+          Прогресс
+        </NavLink>
+        <NavLink to="/more" className="flex-1">
+          Ещё
+        </NavLink>
       </nav>
     </div>
   );

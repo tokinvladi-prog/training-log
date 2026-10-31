@@ -1,1 +1,7 @@
 @import 'tailwindcss';
+
+@layer components {
+  .active {
+    @apply text-blue-600 font-extrabold transition-all duration-300 ease-out;
+  }
+}
