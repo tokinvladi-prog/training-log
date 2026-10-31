@@ -2,11 +2,11 @@ import { NavLink, Outlet } from 'react-router';
 
 export default function Layout() {
   return (
-    <div className="flex min-h-screen flex-col">
-      <main className="flex-1">
+    <div className="flex h-dvh flex-col overflow-hidden">
+      <main className="flex-1 overflow-y-auto overscroll-contain">
         <Outlet />
       </main>
-      <nav className="sticky bottom-0 z-50 flex h-16 items-center border-t border-t-stone-200 bg-white text-center text-xs ">
+      <nav className="flex h-16 shrink-0 items-center border-t border-t-stone-200 bg-white pb-[env(safe-area-inset-bottom)] text-center text-xs">
         <NavLink to="/" className="flex-1" end>
           Сегодня
         </NavLink>

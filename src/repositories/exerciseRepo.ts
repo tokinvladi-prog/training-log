@@ -1,5 +1,6 @@
 import { db } from '../dt/db';
 import type { Equipment, Exercise, MuscleGroup } from '../types';
+import builtin from '../data/builtin-exercises.json';
 
 type NewExercise = {
   name: string;
@@ -29,5 +30,9 @@ export const exerciseRepo = {
     };
     await db.exercises.add(exercise);
     return exercise;
+  },
+
+  async seedBuiltin() {
+    await db.exercises.bulkPut(builtin as Exercise[]);
   },
 };

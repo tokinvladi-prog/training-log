@@ -1,0 +1,452 @@
+[
+  {
+    "id": "builtin-bench-press",
+    "name": "Жим штанги лёжа",
+    "muscleGroup": "chest",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-incline-bench-press",
+    "name": "Жим штанги на наклонной скамье",
+    "muscleGroup": "chest",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-dumbbell-bench-press",
+    "name": "Жим гантелей лёжа",
+    "muscleGroup": "chest",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-incline-dumbbell-press",
+    "name": "Жим гантелей на наклонной скамье",
+    "muscleGroup": "chest",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-machine-chest-press",
+    "name": "Жим в тренажёре от груди",
+    "muscleGroup": "chest",
+    "equipment": "machine",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-cable-crossover",
+    "name": "Разводка в кроссовере",
+    "muscleGroup": "chest",
+    "equipment": "cable",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-dumbbell-fly",
+    "name": "Разводка гантелей лёжа",
+    "muscleGroup": "chest",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-pec-deck",
+    "name": "Сведение рук в тренажёре (бабочка)",
+    "muscleGroup": "chest",
+    "equipment": "machine",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-push-up",
+    "name": "Отжимания от пола",
+    "muscleGroup": "chest",
+    "equipment": "bodyweight",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-pull-up",
+    "name": "Подтягивания",
+    "muscleGroup": "back",
+    "equipment": "bodyweight",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-lat-pulldown",
+    "name": "Тяга верхнего блока к груди",
+    "muscleGroup": "back",
+    "equipment": "cable",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-barbell-row",
+    "name": "Тяга штанги в наклоне",
+    "muscleGroup": "back",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-dumbbell-row",
+    "name": "Тяга гантели одной рукой",
+    "muscleGroup": "back",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-seated-cable-row",
+    "name": "Тяга нижнего блока сидя",
+    "muscleGroup": "back",
+    "equipment": "cable",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-t-bar-row",
+    "name": "Тяга Т-грифа",
+    "muscleGroup": "back",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-machine-row",
+    "name": "Тяга в тренажёре сидя",
+    "muscleGroup": "back",
+    "equipment": "machine",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-deadlift",
+    "name": "Становая тяга",
+    "muscleGroup": "back",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-hyperextension",
+    "name": "Гиперэкстензия",
+    "muscleGroup": "back",
+    "equipment": "bodyweight",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-squat",
+    "name": "Присед со штангой",
+    "muscleGroup": "legs",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-front-squat",
+    "name": "Фронтальный присед",
+    "muscleGroup": "legs",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-smith-squat",
+    "name": "Присед в машине Смита",
+    "muscleGroup": "legs",
+    "equipment": "machine",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-leg-press",
+    "name": "Жим ногами",
+    "muscleGroup": "legs",
+    "equipment": "machine",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-romanian-deadlift",
+    "name": "Румынская тяга",
+    "muscleGroup": "legs",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-dumbbell-lunge",
+    "name": "Выпады с гантелями",
+    "muscleGroup": "legs",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-bulgarian-split-squat",
+    "name": "Болгарские сплит-приседания",
+    "muscleGroup": "legs",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-leg-extension",
+    "name": "Разгибания ног в тренажёре",
+    "muscleGroup": "legs",
+    "equipment": "machine",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-leg-curl",
+    "name": "Сгибания ног в тренажёре",
+    "muscleGroup": "legs",
+    "equipment": "machine",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-hip-thrust",
+    "name": "Ягодичный мостик со штангой",
+    "muscleGroup": "legs",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-standing-calf-raise",
+    "name": "Подъём на носки стоя",
+    "muscleGroup": "legs",
+    "equipment": "machine",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-overhead-press",
+    "name": "Жим штанги стоя",
+    "muscleGroup": "shoulders",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-dumbbell-shoulder-press",
+    "name": "Жим гантелей сидя",
+    "muscleGroup": "shoulders",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-lateral-raise",
+    "name": "Махи гантелей в стороны",
+    "muscleGroup": "shoulders",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-rear-delt-fly",
+    "name": "Разведение гантелей в наклоне",
+    "muscleGroup": "shoulders",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-face-pull",
+    "name": "Тяга к лицу на блоке",
+    "muscleGroup": "shoulders",
+    "equipment": "cable",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-dumbbell-shrug",
+    "name": "Шраги с гантелями",
+    "muscleGroup": "shoulders",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-barbell-curl",
+    "name": "Подъём штанги на бицепс",
+    "muscleGroup": "biceps",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-dumbbell-curl",
+    "name": "Подъём гантелей на бицепс",
+    "muscleGroup": "biceps",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-hammer-curl",
+    "name": "Молотковые сгибания",
+    "muscleGroup": "biceps",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-preacher-curl",
+    "name": "Сгибания на скамье Скотта",
+    "muscleGroup": "biceps",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-cable-curl",
+    "name": "Сгибания рук на нижнем блоке",
+    "muscleGroup": "biceps",
+    "equipment": "cable",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-close-grip-bench",
+    "name": "Жим штанги узким хватом",
+    "muscleGroup": "triceps",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-french-press",
+    "name": "Французский жим лёжа",
+    "muscleGroup": "triceps",
+    "equipment": "barbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-triceps-pushdown",
+    "name": "Разгибания рук на верхнем блоке",
+    "muscleGroup": "triceps",
+    "equipment": "cable",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-dips",
+    "name": "Отжимания на брусьях",
+    "muscleGroup": "triceps",
+    "equipment": "bodyweight",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-overhead-triceps-extension",
+    "name": "Разгибание гантели из-за головы",
+    "muscleGroup": "triceps",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-crunch",
+    "name": "Скручивания",
+    "muscleGroup": "core",
+    "equipment": "bodyweight",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-hanging-leg-raise",
+    "name": "Подъём ног в висе",
+    "muscleGroup": "core",
+    "equipment": "bodyweight",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-cable-crunch",
+    "name": "Скручивания на блоке",
+    "muscleGroup": "core",
+    "equipment": "cable",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-ab-wheel",
+    "name": "Ролик для пресса",
+    "muscleGroup": "core",
+    "equipment": "other",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "builtin-russian-twist",
+    "name": "Русские скручивания с отягощением",
+    "muscleGroup": "core",
+    "equipment": "dumbbell",
+    "source": "builtin",
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00Z"
+  }
+]
